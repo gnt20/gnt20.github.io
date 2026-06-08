@@ -137,6 +137,7 @@ table.program thead th {
 table.program td.time { white-space: nowrap; color: var(--muted); font-variant-numeric: tabular-nums; width: 8.5rem; }
 table.program tr.keynote td.talk { background: var(--keynote); }
 table.program tr.break td { background: var(--break); color: var(--muted); font-style: italic; }
+table.program tr.poster td.talk { background: var(--accent-soft); }
 table.program tr.session-head td {
   background: var(--accent-soft);
   font-weight: 600;
