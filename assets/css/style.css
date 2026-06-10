@@ -84,8 +84,10 @@ main {
 .cover-img {
   display: block;
   width: 100%;
+  max-width: 640px;
+  height: auto;
   border-radius: 6px;
-  margin: 1.6rem 0 2rem;
+  margin: 1.2rem auto 1.8rem;
   box-shadow: 0 2px 12px rgba(0,0,0,0.12);
 }
 
